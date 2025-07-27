@@ -122,20 +122,3 @@ Bulldozer_Price_Prediction/
 ```
 
 ---
-
-## ✅ Future Enhancements
-
-- Optimize preprocessing (e.g. better imputation, outlier handling)
-- Add feature selection or dimensionality reduction
-- Try ensemble models (e.g., XGBoost, LightGBM) or stacking
-- Use more sophisticated hyperparameter search (e.g. Bayesian optimization)
-- Deploy interactive app via Streamlit or Flask
-- Explore time-series cross‑validation for temporally ordered data
-
----
-
-## 👨‍💻 Author
-
-**Deepak P.**  
-Machine Learning Engineer | Predictive Analytics Enthusiast  
-📧 deepak@email.com | 🔗 LinkedIn | 🌐 Portfolio (optional)
