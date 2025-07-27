@@ -17,6 +17,7 @@ This project builds a regression model to predict the sale prices of heavy machi
 
 ## 📂 Dataset Description
 
+The data and evaluation metric we'll be using (root mean square log error or RMSLE) is from the Kaggle Bluebook for Bulldozers competition.
 - **TrainAndValid.csv** – ~412k rows, 53 columns including:
   - Identifier data (`SalesID`, `MachineID`, `ModelID`, `datasource`, `auctioneerID`)
   - Equipment features (`YearMade`, `UsageBand`, `ProductSize`, etc.)
