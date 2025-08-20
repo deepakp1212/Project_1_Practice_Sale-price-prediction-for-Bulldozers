@@ -98,28 +98,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
 
-## 🚀 How to Run
 
-1. Clone or download the notebook and data (`TrainAndValid.csv`, `Test.csv`)
-2. Install dependencies
-3. Open and run the notebook in order:
-   - Data loading & exploratory analysis
-   - Feature engineering & preprocessing
-   - Model training, evaluation & tuning
-   - Generating predictions for test data
-
----
-
-## 📁 Suggested Project Structure
-
-```
-Bulldozer_Price_Prediction/
-│
-├── TrainAndValid.csv
-├── Test.csv
-├── Bulldozer_SalePrice_Prediction.ipynb  # Main notebook
-├── model/                                # (Optional) Saved trained model
-└── README.md
-```
-
----
